@@ -1,4 +1,4 @@
-## @types/h21-map-google
+# @types/h21-map-google
 
 ## Installation
 ```bash
