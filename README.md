@@ -1,8 +1,8 @@
-# @types/h21-map-google
+# @h21-map/types-google
 
-## Installation
+### Installation
 ```bash
-npm i @types/h21-map-google
+npm i @h21-map/types-google
 ```
 ### Details
 ```bash
