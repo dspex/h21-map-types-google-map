@@ -1,7 +1,8 @@
 {
-  "name": "@types/h21-map-google",
-  "version": "1.0.2",
-  "description": "A library of Google Map JS API",
+  "name": "@h21-map/types-google",
+  "version": "1.0.4",
+  "scope":"@h21-map",
+  "description": "TypeScript definitions for Google Map",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,9 +15,9 @@
     "google",
     "google-map",
     "google-type",
-    "angular"
+    "angular",
+    "typescript"
   ],
   "author": "",
-  "license": "",
-  "homepage": ""
+  "license": ""
 }
